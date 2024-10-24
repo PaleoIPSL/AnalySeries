@@ -10,6 +10,6 @@ At the end of the guide, other versions of AnalySeries are briefly explained too
 The new Mac Operational Systems no longer support this version of AnalySeries because it requires a 32-bit MacOS prior to Catalina (MacOS 10.15). In consequence, the only solutions to keep using AnalySeries are to preserve an old Mac or to use an emulator. In this repository, we also share instructions to run AnalySeries on an emulator. However, at the LSCE we are currently working on a new Python version that will be supported on any operational system.
 
 Installation:
-1.  Make sure you have adequate equipment: 32-bit MacOS prior to Catalina (MacOS 10.15) or an emulator.
+1.  Make sure you have the right equipment: 32-bit MacOS prior to Catalina (MacOS 10.15) or an emulator.
 2.	Download AnalySeries from the official GitHub repository of LSCE at https://github.com/PaleoIPSL/Original-AnalySeries.
 3.	Once unzipped, you can directly run AnalySeries, there is no need to install it.
