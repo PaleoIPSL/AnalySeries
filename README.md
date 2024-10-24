@@ -1,9 +1,9 @@
-# Original-AnalySeries&User-Guide
-Here you will find the original version of AnalySeries (versions 2.0.5.2) and its User's Guide, along with some other resources (e.g., AnalySeries version 2.0.8, other ancient versions of AnalySeries, and practical solutions to common problems, such as alternatives to run AnalySeries without and old Mac).
+# Original AnalySeries & User's Guide
+Here, you will find the original version of AnalySeries (versions 2.0.5.2 and 2.0.8) and its User's Guide, along with some other resources (e.g., AnalySeries version 2.0.8, other ancient versions of AnalySeries, and practical solutions to common problems, such as alternative options to running AnalySeries without an old Mac).
 
-In this repository, we share the original version of AnalySeries in its version 2.0.5.2.
+In this repository, we share the original version of AnalySeries, version 2.0.5.2.
 
-This version of AnalySeries is no longer supported by the new MacOS because it requires a 32-bit MacOS prior to Catalina (MacOS 10.15). The only solutions to keep using AnalySeries are to preserve an old Mac or to use an emulator. In this repository, we also share instructions to run AnalySeries on an emulator. However, at the LSCE we are currently working on a new Python version that will be supported on any operational system.
+The new Mac Operational Systems no longer support this version of AnalySeries because it requires a 32-bit MacOS prior to Catalina (MacOS 10.15). The only solutions to keep using AnalySeries are to preserve an old Mac or to use an emulator. In this repository, we also share instructions to run AnalySeries on an emulator. However, at the LSCE we are currently working on a new Python version that will be supported on any operational system.
 
 AnalySeries is a powerful program designed to assist you in analyzing and visualizing various types of paleoclimatic data, such as analyses on marine sediment and ice cores, but also to calculate parameters such as insolation, obliquity, eccentricity, and precession. Thanks to its user-friendly interface, it makes it easy to correlate different paleoclimatic data and archives, and to make different types of mathematical processing for better interpretations and visualization of your data. Whether you are a professor, a researcher, an analyst, or a student, AnalySeries will provide you with the tools you need to explore and interpret your data effectively.
 
