@@ -1,5 +1,5 @@
-# Original AnalySeries & User's Guide
-Here, you will find the original version of AnalySeries (versions 2.0.5.2 and 2.0.8) and its User's Guide, along with some other resources (e.g., AnalySeries version 2.0.8, other ancient versions of AnalySeries, and practical solutions to common problems, such as alternative options to running AnalySeries without an old Mac).
+# AnalySeries & User's Guide
+Here, you will find the original AnalySeries on its versions 2.0.5.2 and 2.0.8, and its User's Guide, along with some other resources (e.g., other versions of AnalySeries, practical solutions to common problems, such as alternative options to running AnalySeries without an old Mac, a forum to discuss different problems, etc.).
 
 AnalySeries is a powerful program designed to assist you in analyzing and visualizing various types of paleoclimatic data, such as analyses on marine sediment and ice cores, but also to calculate parameters such as insolation, obliquity, eccentricity, and precession. Thanks to its user-friendly interface, it makes it easy to correlate different paleoclimatic data and archives, and to make different types of mathematical processing for better interpretations and visualization of your data. Whether you are a professor, a researcher, an analyst, or a student, AnalySeries will provide you with the tools you need to explore and interpret your data effectively.
 
