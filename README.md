@@ -11,5 +11,5 @@ The new Mac Operational Systems no longer support this version of AnalySeries be
 
 Installation:
 1.  Make sure you have the right equipment: 32-bit MacOS prior to Catalina (MacOS 10.15) or an alternative solution.
-2.	Download AnalySeries from the official GitHub repository of LSCE at https://github.com/PaleoIPSL/Original-AnalySeries.
+2.	Download AnalySeries from the official GitHub repository of LSCE at https://github.com/PaleoIPSL/AnalySeries.
 3.	Once unzipped, you can directly run AnalySeries, there is no need to install it.
